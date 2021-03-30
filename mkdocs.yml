@@ -1,0 +1,8 @@
+site_name: "vefs-api"
+site_description: "This is the VEFS API. eFolder evolved."
+
+nav:
+  - Overview: index.md
+
+plugins:
+  - techdocs-core

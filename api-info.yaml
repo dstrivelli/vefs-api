@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: vefs-api-api
+  description: "This is the VEFS API. eFolder evolved."
+spec:
+  type: openapi
+  lifecycle: production
+  owner: "vefs"
+  definition:
+    $text: https://github.com/dstrivelli/vefs-api/blob/master/openapi.yaml
