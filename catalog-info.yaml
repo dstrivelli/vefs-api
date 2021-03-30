@@ -4,10 +4,10 @@ metadata:
   name: "vefs-api"
   description: "This is the VEFS API. eFolder evolved."
   tags:
-  - vefs 
-  - file 
-  - document 
-  - efolder
+    - vefs 
+    - file 
+    - document 
+    - efolder
   annotations:
     github.com/project-slug: dstrivelli/vefs-api
     backstage.io/techdocs-ref: url:https://github.com/dstrivelli/vefs-api
