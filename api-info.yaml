@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: vefs-api-api
+  name: vefs-api
   description: "This is the VEFS API. eFolder evolved."
 spec:
   type: openapi
